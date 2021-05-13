@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Project5_2</string>
+    <string name="edit_hint1">숫자1 입력</string>
+    <string name="edit_hint2">숫자2 입력</string>
+    <string name="btn_plus">더하기</string>
+    <string name="btn_m">빼기</string>
+    <string name="btn_u">곱하기</string>
+    <string name="btn_d">나누기</string>
 </resources>
